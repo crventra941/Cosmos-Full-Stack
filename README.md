@@ -2,7 +2,7 @@
 
 ## First of all
 
-I would like to express my sincere thanks for the opportunity to participate in the selection process for the Full Stack Developer position. It was a pleasure to learn more about Astra Zeneca and your team.
+I would like to express my sincere thanks for the opportunity to participate in the selection process for the Full Stack Developer position. It was a pleasure to learn more about the company and your team.
 
 I appreciate the time and consideration you spent reviewing my application and getting to know me better during the interviews. The experience has been very enriching and has given me a better understanding of your company's culture and values.
 
